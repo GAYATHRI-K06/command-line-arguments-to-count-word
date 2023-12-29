@@ -32,8 +32,8 @@ print("no of words",len(words))
 
 
 ### OUTPUT:
-![Alt text](<Screenshot 2023-12-29 205646.png>)
-![Alt text](<Screenshot 2023-12-29 205709.png>)
+![Screenshot 2023-12-29 205646](https://github.com/GAYATHRI-K06/command-line-arguments-to-count-word/assets/145742742/c2447a91-6467-4409-8da0-72f2dcd578d2)
+![Screenshot 2023-12-29 205709](https://github.com/GAYATHRI-K06/command-line-arguments-to-count-word/assets/145742742/7740f473-6ebf-461d-afe6-957a8308578a)
 
 
 ## RESULT:
